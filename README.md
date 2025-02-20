@@ -16,17 +16,7 @@ Welcome to my AWS Cloud Resume Challenge project! This project demonstrates the 
 - [About the Challenge](#about-the-challenge)
 - [Architecture Overview](#architecture-overview)
 - [Prerequisites](#prerequisites)
-- [Project Structure](#project-structure)
-- [Infrastructure Deployment](#infrastructure-deployment)
-  - [Backend (Lambda + DynamoDB)](#backend-lambda--dynamodb)
-  - [Website Hosting (S3 + CloudFront)](#website-hosting-s3--cloudfront)
-  - [Domain & SSL (Route53 + ACM)](#domain--ssl-route53--acm)
-- [Front-End](#front-end)
-- [Continuous Integration / Continuous Deployment](#continuous-integration--continuous-deployment)
-- [Testing](#testing)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-- [Author](#author)
+
 
 ---
 
